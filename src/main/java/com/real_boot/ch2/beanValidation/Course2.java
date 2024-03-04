@@ -11,7 +11,7 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class Course {
+public class Course2 {
 
 	private long id;
 	private String name;

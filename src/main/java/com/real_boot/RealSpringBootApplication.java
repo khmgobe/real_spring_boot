@@ -1,6 +1,5 @@
 package com.real_boot;
 
-import com.real_boot.ch2.beanValidation.Course;
 import com.real_boot.ch2.beanValidation.User;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validation;
